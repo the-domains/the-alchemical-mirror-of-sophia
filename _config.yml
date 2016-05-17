@@ -1,0 +1,28 @@
+name: The Alchemical Mirror of Sophia
+favicon: null
+layout_spectrum: 0.7527243874501437
+typography_spectrum: 0.7274782666936517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6359131580684334
+  lightness: 0.6580591995734721
+  saturation: 0.8261342898476869
+  rhythmicContrast: 0.234603863209486
+purpose: []
