@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The sum product of any Civilization is its Arts.
-datePublished: '2016-05-18T20:46:53.033Z'
-dateModified: '2016-05-18T20:46:43.265Z'
+datePublished: '2016-05-18T21:43:35.813Z'
+dateModified: '2016-05-18T20:47:00.516Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-the-sum-product-of-any-civilization-is-its-arts.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-18-the-sum-product-of-any-civilization-is-its-arts.md
 url: the-sum-product-of-any-civilization-is-its-arts/index.html
 _type: Article
 
