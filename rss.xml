@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A Womans Journey]]></title>
-        <description><![CDATA[A Womans Journey]]></description>
+        <title><![CDATA[The Alchemical Mirror of Sophia]]></title>
+        <description><![CDATA[The Alchemical Mirror of Sophia]]></description>
         <link>https://thegrid.ai/the-alchemical-mirror-of-sophia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 21:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 22:08:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-alchemical-mirror-of-sophia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Heart Opening]]></title>
+            <description><![CDATA[<article><h1>Heart Opening</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/764da0bc85d9ebb65d0d843dc0aeac7c03d03763.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-alchemical-mirror-of-sophia/9a203a29-6114-4958-bdf4-869f34055615/index.html</link>
+            <guid isPermaLink="false">9a203a29-6114-4958-bdf4-869f34055615</guid>
+            <pubDate>Wed, 18 May 2016 22:07:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The sum product of any Civilization is its Arts.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/the-alchemical-mirror-of-sophia/visionary-orvizhnereor/index.html</link>
             <guid isPermaLink="false">9f47f933-a538-4cd6-bd97-c8283682c798</guid>
             <pubDate>Wed, 18 May 2016 21:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6758982-7c38-46dc-b03f-9919580752d1.jpg">]]></description>
-            <link>https://thegrid.ai/the-alchemical-mirror-of-sophia/9a203a29-6114-4958-bdf4-869f34055615/index.html</link>
-            <guid isPermaLink="false">9a203a29-6114-4958-bdf4-869f34055615</guid>
-            <pubDate>Wed, 18 May 2016 04:32:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
