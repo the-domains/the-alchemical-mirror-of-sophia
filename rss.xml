@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Alchemical Mirror of Sophia]]></title>
+        <description><![CDATA[The Alchemical Mirror of Sophia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 04:22:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6758982-7c38-46dc-b03f-9919580752d1.jpg">]]></description>
+            <link>undefined9a203a29-6114-4958-bdf4-869f34055615/index.html</link>
+            <guid isPermaLink="false">9a203a29-6114-4958-bdf4-869f34055615</guid>
+            <pubDate>Wed, 18 May 2016 04:21:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
