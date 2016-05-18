@@ -1,4 +1,4 @@
-name: The Alchemical Mirror of Sophia
+name: A Womans Journey
 favicon: null
 layout_spectrum: 0.7527243874501437
 typography_spectrum: 0.7274782666936517
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fefefe'
+    - '#593a2d'
+    - '#acada8'
+    - '#070d1e'
+    - '#6790d6'
   brandStrength: 0.5
   lightness: 0.625
   saturation: 0.625
